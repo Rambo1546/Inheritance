@@ -11,3 +11,5 @@ public class Base extends Racing {
 	
 }
 }
+
+// Hi Jesus...the main program should not extend from another class....Please rethink....Car/Truck/Van can extend from Automabile...
